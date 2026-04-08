@@ -2,7 +2,7 @@
 
 Junior cloud, security, and full-stack builder focused on AWS architecture, secure systems, backend development, and hands-on proof-of-work.
 
-Currently completing a **Level 5 Diploma in Digital Technology Development and Design** at **Mission Ready HQ**, while building cloud security, Terraform, MERN, and AI project work in public.
+Currently completing a **Level 5 Diploma in Digital Technology Development and Design** at **Mission Ready HQ**, building cloud security, Terraform, MERN, and AI project work in public.
 
 ## Current Focus
 - AWS architecture and cloud security
@@ -26,7 +26,7 @@ Currently completing a **Level 5 Diploma in Digital Technology Development and D
 
 ## Career Direction
 Seeking junior opportunities in:
-- Cloud
+- Cloud Engineering
 - Cloud Security
 - Backend Development
 - Full-Stack Development
