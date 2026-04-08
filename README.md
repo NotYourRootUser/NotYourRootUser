@@ -1,16 +1,37 @@
-## Hi there 👋
+# Justin Uaisele
 
-<!--
-**NotYourRootUser/NotYourRootUser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior cloud, security, and full-stack builder focused on AWS architecture, secure systems, backend development, and hands-on proof-of-work.
 
-Here are some ideas to get you started:
+Currently completing a **Level 5 Diploma in Digital Technology Development and Design** at **Mission Ready HQ**, while building cloud security, Terraform, MERN, and AI project work in public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- AWS architecture and cloud security
+- CompTIA Security+
+- JavaScript full-stack development
+- Terraform guardrails and infrastructure labs
+- Portfolio projects with diagrams, documentation, and GitHub proof-of-work
+
+## Stack
+**Frontend:** React, Vite, CSS  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, Mongoose, MySQL  
+**Cloud / Security:** AWS, Azure AI Services, VPC, EC2, ALB, Security Groups, Systems Manager  
+**Tools:** Git, GitHub, Postman, Terraform, Docker, AWS CLI
+
+## Featured Projects
+- [Secure AWS Network Architecture](https://github.com/NotYourRootUser/secure-aws-network-architecture)
+- [MERN Product Listing Page](https://github.com/NotYourRootUser/mern-product-listing-page)
+- [Vehicle Classification AI Prototype](https://github.com/NotYourRootUser/vehicle-classification-ai-prototype)
+- [Terraform Guardrails](https://github.com/NotYourRootUser/terraform-guardrails)
+
+## Career Direction
+Seeking junior opportunities in:
+- Cloud
+- Cloud Security
+- Backend Development
+- Full-Stack Development
+
+Long-term goal: **Cloud and AI Security Architect**
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/justin-u-48b613383/)
