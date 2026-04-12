@@ -22,7 +22,6 @@ Currently completing a **Level 5 Diploma in Digital Technology Development and D
 - [Secure AWS Network Architecture](https://github.com/NotYourRootUser/secure-aws-network-architecture)
 - [MERN Product Listing Page](https://github.com/NotYourRootUser/mern-product-listing-page)
 - [Vehicle Classification AI Prototype](https://github.com/NotYourRootUser/vehicle-classification-ai-prototype)
-- [Terraform Guardrails](https://github.com/NotYourRootUser/terraform-guardrails)
 
 ## Career Direction
 Seeking junior opportunities in:
