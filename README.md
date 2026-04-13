@@ -12,11 +12,11 @@
 
 ---
 
-## I'm Justin
+## Hey, I'm Justin
 
 I build cloud, backend, and full-stack systems with a strong interest in **secure architecture**, **AWS**, and **real implementation over tutorial-only work**.
 
-Right now I’m growing across cloud security, backend engineering, infrastructure as code, and full-stack delivery - with a focus on building projects that are not just functional, but **secure, explainable, and production-aware**.
+Right now I’m building stronger foundations across cloud security, backend engineering, infrastructure as code, and full-stack delivery with a focus on systems that are not just functional, but **secure, explainable, and production-aware**.
 
 > I like projects that leave a paper trail: diagrams, notes, screenshots, trade-offs, and working code.
 
@@ -26,43 +26,43 @@ Right now I’m growing across cloud security, backend engineering, infrastructu
 
 I’m aiming toward work where **architecture, security, and implementation** all meet in the same system.
 
-Long term: Cloud & AI Security  
-Right now: building the foundations properly
+**Long term:** Cloud & AI Security  
+**Right now:** building the foundations properly
 
 ---
 
 ## A Few Things I've Built
 
 ### Secure AWS Network Architecture  
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NotYourRootUser/secure-aws-network-architecture)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotYourRootUser/secure-aws-network-architecture)
 
 A segmented AWS network design built to explore clearer security boundaries, subnet separation, and controlled access patterns.
 
 ---
 
 ### MERN Product Listing Page  
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NotYourRootUser/mern-product-listing-page)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotYourRootUser/mern-product-listing-page)
 
 A team-based full-stack build where I implemented a UX-provided product listing design, connected it to backend APIs, and worked through frontend-to-backend integration.
 
 ---
 
 ### Secure Auction Search API  
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NotYourRootUser/secure-auction-search-api)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotYourRootUser/secure-auction-search-api)
 
 A backend API focused on safer search behavior, defensive input handling, and tested request flows using Express, MongoDB, Jest, and Supertest.
 
 ---
 
 ### Vehicle Classification AI Prototype  
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NotYourRootUser/vehicle-classification-ai-prototype)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotYourRootUser/vehicle-classification-ai-prototype)
 
 An image classification workflow that turns uploads into confidence-scored outputs for an insurance-style decision flow using backend processing and cloud AI services.
 
 ---
 
 ### Student Notes Tracker  
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NotYourRootUser/student-notes-tracker)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotYourRootUser/student-notes-tracker)
 
 A small LAMP stack practice project built to better understand the full browser → PHP → MySQL → rendered output flow before placement work.
 
@@ -122,23 +122,9 @@ A small LAMP stack practice project built to better understand the full browser 
 
 ---
 
-## Current Direction
-
-I’m most interested in work where **architecture, security, and implementation** meet in the same system.
-
-Right now that means building stronger depth in:
-- cloud security
-- backend systems
-- infrastructure as code
-- full-stack delivery
-
-**Long term:** Cloud & AI Security Architect
-
----
+## Connect With Me
 
 <div align="center">
-
-### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Justin_Uaisele-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-u-48b613383/)
 [![GitHub](https://img.shields.io/badge/GitHub-NotYourRootUser-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotYourRootUser)
