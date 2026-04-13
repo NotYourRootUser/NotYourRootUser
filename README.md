@@ -62,7 +62,7 @@ An image classification workflow that turns uploads into confidence-scored outpu
 ---
 
 ### Student Notes Tracker  
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NotYourRootUser/student-notes-tracker)
 
 A small LAMP stack practice project built to better understand the full browser → PHP → MySQL → rendered output flow before placement work.
 
