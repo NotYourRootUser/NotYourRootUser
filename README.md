@@ -12,7 +12,7 @@
 
 ---
 
-## Hey, I'm Justin
+## I'm Justin
 
 I build cloud, backend, and full-stack systems with a strong interest in **secure architecture**, **AWS**, and **real implementation over tutorial-only work**.
 
