@@ -66,11 +66,6 @@ Currently completing a **Level 5 Diploma in Digital Technology Development and D
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/Azure%20AI%20Services-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPC-Networking-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EC2-Compute-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ALB-Load%20Balancing-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security%20Groups-Access%20Control-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Systems%20Manager-Operations-orange?style=for-the-badge" />
 </p>
 
 ### Tools
