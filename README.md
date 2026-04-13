@@ -16,7 +16,7 @@
 
 I build cloud, backend, and full-stack systems with a strong interest in **secure architecture**, **AWS**, and **real implementation over tutorial-only work**.
 
-Right now I’m growing across cloud security, backend engineering, infrastructure as code, and full-stack delivery — with a focus on building projects that are not just functional, but **secure, explainable, and production-aware**.
+Right now I’m growing across cloud security, backend engineering, infrastructure as code, and full-stack delivery - with a focus on building projects that are not just functional, but **secure, explainable, and production-aware**.
 
 > I like projects that leave a paper trail: diagrams, notes, screenshots, trade-offs, and working code.
 
