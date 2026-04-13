@@ -22,14 +22,12 @@ Right now I’m growing across cloud security, backend engineering, infrastructu
 
 ---
 
-## What I'm Focused On
+## Where This Is Going
 
-- secure cloud architecture
-- AWS and infrastructure fundamentals
-- backend development with Node.js and PHP
-- Terraform and infrastructure practice
-- full-stack builds with documented proof-of-work
-- long-term path toward Cloud & AI Security Architect
+I’m aiming toward work where **architecture, security, and implementation** all meet in the same system.
+
+Long term: Cloud & AI Security  
+Right now: building the foundations properly
 
 ---
 
