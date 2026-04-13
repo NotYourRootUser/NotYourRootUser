@@ -63,6 +63,20 @@ Built a full-stack product listing workflow that connected React frontend compon
 
 ---
 
+### Secure Auction Search API
+[![Repo](https://img.shields.io/badge/GitHub-secure--auction--search--api-blue?style=flat-square&logo=github)](https://github.com/NotYourRootUser/secure-auction-search-api)
+
+Built a backend auction search API with defensive input handling, MongoDB-backed listing data, and tested search contract behavior.
+
+**Highlights**
+- hardened search input by trimming queries, escaping regex characters, limiting result count, and sorting newest results first
+- designed a focused Express and MongoDB backend with schema validation and local seed / clear scripts
+- tested the API contract with Jest and Supertest, including success, empty query, regex-like input, and database failure cases
+
+**Tech:** Node.js, Express.js, MongoDB, Mongoose, Jest, Supertest, REST APIs
+
+---
+
 ### Vehicle Classification AI Prototype
 [![Repo](https://img.shields.io/badge/GitHub-vehicle--classification--ai--prototype-blue?style=flat-square&logo=github)](https://github.com/NotYourRootUser/vehicle-classification-ai-prototype)
 
